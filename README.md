@@ -52,7 +52,7 @@ or if you're using yarn:
   bash
   - Copy code
   - npm start
-or
+ or
 
   bash
   - Copy code
