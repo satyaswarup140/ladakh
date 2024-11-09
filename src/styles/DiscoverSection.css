@@ -1,0 +1,26 @@
+.discover-section {
+  padding: 20px;
+  background-color: #75a4b9;
+  text-align: left;
+}
+
+.reviews .review {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.reviews .review h3 {
+  margin: 0 0 5px;
+}
+
+.reviews .review p {
+  margin: 5px 0;
+}
+
+.reviews .review p:last-child {
+  font-size: 18px;
+  color: #ffbf00;
+}

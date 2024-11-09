@@ -1,0 +1,25 @@
+.order-confirmation {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+  
+.order-confirmation h2 {
+    font-size: 28px;
+    color: #28a745;
+    margin-bottom: 10px;
+}
+  
+.order-confirmation p {
+    color: #333;
+    margin: 8px 0;
+    font-size: 16px;
+}
+  
+.order-confirmation p strong {
+    color: #555;
+}
+  
