@@ -48,15 +48,13 @@ or if you're using yarn:
    - Copy code
    - yarn install
 4. Start the development server:
-
-  bash
-  - Copy code
-  - npm start
- or
-
-  bash
-  - Copy code
-  - yarn start
+   bash
+   - Copy code
+   - npm start
+   or
+   bash
+   - Copy code
+   - yarn start
 The app will be running on http://localhost:3004.
 
 # Folder Structure
