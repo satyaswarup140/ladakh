@@ -29,8 +29,11 @@ Error Boundary: Handles errors gracefully to enhance the user experience.
 1. Clone this repository to your local machine:
    bash
    - Copy code
-   - git clone https://github.com/your-username/brisphere.git
-
+   - git clone https://github.com/satyaswarup140/ladakh.git
+# Deployment
+  The Brisphere platform is live and can be accessed through the following link:
+  https://ladakh-mdjr1jvma-satyaswarup140s-projects.vercel.app/
+  
 2. Navigate to the project directory:
    bash
    - Copy code
